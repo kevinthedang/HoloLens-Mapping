@@ -12,7 +12,7 @@ public class ShowSphere : MonoBehaviour
     }
 
     // show sphere in the game scene
-    public void showSphere()
+    public void Show()
     {
         model.SetActive(true);
     }
