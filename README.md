@@ -13,3 +13,7 @@
 ## References
 * [Spatial Meshes](https://learn.microsoft.com/en-us/windows/mixed-reality/design/spatial-mesh-ux)
 * [Hand and Eye Tracking in Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/hand-eye-in-unity)
+
+## Useful Videos
+* [Spatial Understanding](https://www.youtube.com/watch?v=Pcmo0PPB9eI&ab_channel=MicrosoftDeveloper)
+* [OpenXR Understanding](https://www.youtube.com/watch?v=sM8wbpYVwSA&ab_channel=DilmerValecillos)
